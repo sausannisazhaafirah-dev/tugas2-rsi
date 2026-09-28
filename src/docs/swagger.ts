@@ -11,6 +11,15 @@ const doc = {
       location: 'Kantin FK',
       description: '',
     },
+    MenuItemInput: {
+      $stallId: 5,
+      $name: 'Es Jeruk Peras',
+      $price: 6000,
+      isAvailable: true,
+    },
+    MenuItemUpdate: {
+      price: 16000,
+    },
   },
 };
 
